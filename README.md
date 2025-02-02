@@ -22,7 +22,7 @@
 ### [Fuel on the Telegraph: How Governor Networks Sparked Revolution in Late Qing China.”]([https://github.com/yourname/qing-telegraph](https://github.com/Shijia-Lyu/Telegraph-and-Elite-Networks.git))  
 📝 **Reconstructing Elite Networks in Late Qing China (1881-1911)**  
 🔧 **Methods**: Python (Web Scraping), Panel Data Models  
-📊 **Findings**: High betweenness centrality nodes delayed reforms by 12-18 months  
+📊 **News**: We have find high correlation between telegraph interaction and the form of revolution groups.  
 
 
 ## 📝 Selected Works    
@@ -31,7 +31,7 @@
 with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo
 
 ## 📫 Let's Connect!  
-- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sylvie-lyu-ab322a326/))] 
+[- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sylvie-lyu-ab322a326/))] (https://www.linkedin.com/in/sylvie-lyu-ab322a326/))
 - ✉️ Email: SylvieLyu2004@gmail.com  
 
 ## ⚡ Fun Fact
