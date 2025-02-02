@@ -25,8 +25,7 @@
 📊 **Findings**: High betweenness centrality nodes delayed reforms by 12-18 months  
 
 
-## 📝 Selected Works  
-- **[Working Paper]**: *“Elite Networks and Institutional Collapse: A Quantitative Study of Late Qing Telegraphy”* (Under Review)  
+## 📝 Selected Works    
 - **[Undergraduate Journal]**: *“Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta”* (Submitted to Undergraduate Economic Review.)
 
 
