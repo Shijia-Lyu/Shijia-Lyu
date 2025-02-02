@@ -1,7 +1,7 @@
 # About Me
 **PPE Scholar | Undergraduate Researcher`**  
 
-## 🎓 Academic Background  
+## 🎓 [Academic Background](https://github.com/Shijia-Lyu/Shijia-Lyu/blob/main/Lyu_Shijia.pdf) 
 - **Undergraduate**: PPE (Philosophy, Politics, and Economics) at Wuhan University  
 - **Exchange Student**: University of Hong Kong (HKU), focused on Economic History & Quantitative Methods  
 - **Research Interests**:  
