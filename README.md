@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lyu Shijia
+# About Me
 **PPE Scholar | Undergraduate Researcher`**  
 
 ## 🎓 Academic Background  
@@ -18,10 +18,6 @@
 - **LaTeX**: Academic writing, thesis formatting 
 
 ## 🚀 Research Projects  
-### [Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta](https://github.com/yourname/shanghai-migration)  
-📝 **Quantifying the Economic Impact of late Qing Foreign Immigrant in Shanghai**  
-📊 **Findings**: Identified a threshold of 1,218 migrants for economic resilience
-💼 **State**: Submitted to Undergraduate Economic Review.
 
 ### [Fuel on the Telegraph: How Governor Networks Sparked Revolution in Late Qing China.”](https://github.com/yourname/qing-telegraph)  
 📝 **Reconstructing Elite Networks in Late Qing China (1881-1911)**  
@@ -29,9 +25,9 @@
 📊 **Findings**: High betweenness centrality nodes delayed reforms by 12-18 months  
 
 
-## 📝 Publications & Working Papers  
+## 📝 Selected Works  
 - **[Working Paper]**: *“Elite Networks and Institutional Collapse: A Quantitative Study of Late Qing Telegraphy”* (Under Review)  
-- **[Undergraduate Journal]**: *“Migration and Economic Resilience in 1930s Shanghai”* (Published in *Undergraduate Economic Review*)  
+- **[Undergraduate Journal]**: *“Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta”* (Submitted to Undergraduate Economic Review.)
 
 
 ## 📫 Let's Connect!  
