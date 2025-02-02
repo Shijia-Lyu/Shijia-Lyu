@@ -28,7 +28,7 @@
 ## 📝 Selected Works    
 - **[Undergraduate Journal]**: *“Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta”* (Submitted to Undergraduate Economic Review.)
   
-with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo
+- with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo
 
 ## 📫 Let's Connect!  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvie-lyu-ab322a326/)
