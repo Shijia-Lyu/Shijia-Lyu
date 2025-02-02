@@ -31,7 +31,7 @@
 with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo
 
 ## 📫 Let's Connect!  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvie-lyu-ab322a326/))] (https://www.linkedin.com/in/sylvie-lyu-ab322a326/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvie-lyu-ab322a326/)
 - ✉️ Email: SylvieLyu2004@gmail.com  
 
 ## ⚡ Fun Fact
