@@ -19,7 +19,7 @@
 
 ## 🚀 Research Projects  
 
-### [Fuel on the Telegraph: How Governor Networks Sparked Revolution in Late Qing China.”](https://github.com/yourname/qing-telegraph)  
+### [Fuel on the Telegraph: How Governor Networks Sparked Revolution in Late Qing China.”]([https://github.com/yourname/qing-telegraph](https://github.com/Shijia-Lyu/Telegraph-and-Elite-Networks.git))  
 📝 **Reconstructing Elite Networks in Late Qing China (1881-1911)**  
 🔧 **Methods**: Python (Web Scraping), Panel Data Models  
 📊 **Findings**: High betweenness centrality nodes delayed reforms by 12-18 months  
@@ -27,11 +27,10 @@
 
 ## 📝 Selected Works    
 - **[Undergraduate Journal]**: *“Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta”* (Submitted to Undergraduate Economic Review.)
-
+with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo
 
 ## 📫 Let's Connect!  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](LinkedIn链接)  
-- [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](Google Scholar链接)  
+- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sylvie-lyu-ab322a326/))](LinkedIn链接)  
 - ✉️ Email: SylvieLyu2004@gmail.com  
 
 ## ⚡ Fun Fact
