@@ -14,7 +14,7 @@
 
 ## 🚀 Research Projects  
 
-### [Fuel on the Telegraph: How Governor Networks Sparked Revolution in Late Qing China.”](https://github.com/Shijia-Lyu/Telegraph-Network-Research）
+### [Fuel on the Telegraph: How Governor Networks Sparked Revolution in Late Qing China.”][(https://github.com/Shijia-Lyu/Telegraph-Network-Research）](https://github.com/Shijia-Lyu/Telegraph-Network-Research)
 📝 **Reconstructing Elite Networks in Late Qing China (1881-1911)**  
 🔧 **Methods**: Python (Web Scraping and Data Processing), Panel Data Models  
 📊 **News**: 
