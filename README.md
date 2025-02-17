@@ -22,7 +22,8 @@
 📊 **News**: 
   - Sept. 2024 Research Project launched with [Dr. Hongjie Yuan](https://ems.whu.edu.cn/info/1978/19128.htm).
   - Dec. 2024 Much more data of revolution groups were collected.
-  - Jan. 2025 We have find high correlation between telegraph interaction and the form of revolution groups.  
+  - Jan. 2025 We have find high correlation between telegraph interaction and the form of revolution groups.
+  - Feb. 2025 We are trying to check our data and refine our baseline regression.  
 
 
 ## 📝 Selected Works    
