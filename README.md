@@ -28,7 +28,7 @@
 
 
 ## 📝 Selected Works    
-- **[Undergraduate Journal](https://github.com/Shijia-Lyu/Immigration-Effect-Paper/tree/main)**: *“Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta”* (Submitted to Undergraduate Economic Review.)
+- **[Undergraduate Economic Review](https://github.com/Shijia-Lyu/Immigration-Effect-Paper/tree/main)**: *“Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta”* (Under review)
   
   - with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo
 
