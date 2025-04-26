@@ -25,6 +25,7 @@
   - Jan. 2025 We have find high correlation between telegraph interaction and the form of revolution groups.
   - Feb. 2025 We are trying to check our data and refine our baseline regression.
   - Mar. 2025 A face-to-face chat with my supervisor, digging the underlying mechanisms.
+  - Apr. 2025 Conference at National School of Development, Peking University.
 
 
 ## 📝 Selected Works    
@@ -35,6 +36,11 @@
 ## 📫 Let's Connect!  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvie-lyu-ab322a326/)
 - ✉️ Email: SylvieLyu2004@gmail.com  
+
+## 📸 Sylvie's [Gallery](https://shijia-lyu.github.io/image-gallery/)
+- 🏞 A glimpse into my academic journey and everyday reflections
+- 🎤 Conferences, life moments, and spontaneous thoughts captured
+- 🌿 Continuously updating with new experiences and inspirations
 
 ## ⚡ Fun Fact
 - 🎵 Cantonese pop enthusiast
