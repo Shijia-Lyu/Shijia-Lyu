@@ -1,11 +1,11 @@
 # About Me
 **PPE Scholar | Undergraduate Researcher`**  
 
-## 🎓 [Academic Background](https://drive.google.com/file/d/1M-TdVBI9egv0jHg36o4kMZS9qlI2ebut/view?usp=drive_link)
+## 🎓 [Academic Background](https://drive.google.com/file/d/1JeDlVgABefDggQQRm2UKeO8xR7yWha9D/view?usp=drive_link)
 - **Undergraduate**: PPE (Philosophy, Politics, and Economics) at Wuhan University  
 - **Exchange Student**: University of Hong Kong (HKU), focused on Economic History & Quantitative Methods  
 - **Research Interests**:  
-  - Quantitative History 
+  - Economic History 
   - Development Economics
   - Political Philosophy and Chinese Politics 
 
