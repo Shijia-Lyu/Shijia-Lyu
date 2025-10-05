@@ -1,5 +1,5 @@
 # About Me
-**PPE Scholar | Undergraduate Researcher`**  
+**PPE Student | Undergraduate Researcher`**  
 
 ## 🎓 [Academic Background](https://drive.google.com/file/d/1aP-PqGhkdyG3UMPNdbsAKqYlxlA7xOZA/view?usp=drive_link)
 - **Undergraduate**: PPE (Philosophy, Politics, and Economics) at Wuhan University  
