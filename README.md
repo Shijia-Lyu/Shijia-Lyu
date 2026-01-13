@@ -46,3 +46,6 @@
 - 🎤 Conferences, life moments, and spontaneous thoughts captured
 - 🌿 Continuously updating with new experiences and inspirations
 
+- <img width="951" height="951" alt="image" src="https://github.com/user-attachments/assets/163843cd-1834-4111-bbdd-b915f77648f7" />
+
+
