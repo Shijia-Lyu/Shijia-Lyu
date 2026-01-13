@@ -1,4 +1,5 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/613e67e1-50a3-4f0b-865c-1191f9657320" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2d1008ba-14d0-4bc1-81a2-2ff26997e8de" /># About Me
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/613e67e1-50a3-4f0b-865c-1191f9657320" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2d1008ba-14d0-4bc1-81a2-2ff26997e8de" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2d1008ba-14d0-4bc1-81a2-2ff26997e8de" />
+# About Me
 **PPE Student | Undergraduate Researcher`**  
 
 ## 🎓 [Academic Background](https://drive.google.com/file/d/1aP-PqGhkdyG3UMPNdbsAKqYlxlA7xOZA/view?usp=drive_link)
