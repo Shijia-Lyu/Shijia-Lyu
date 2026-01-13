@@ -1,4 +1,4 @@
-# About Me
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/613e67e1-50a3-4f0b-865c-1191f9657320" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2d1008ba-14d0-4bc1-81a2-2ff26997e8de" /># About Me
 **PPE Student | Undergraduate Researcher`**  
 
 ## 🎓 [Academic Background](https://drive.google.com/file/d/1aP-PqGhkdyG3UMPNdbsAKqYlxlA7xOZA/view?usp=drive_link)
@@ -7,7 +7,7 @@
 - **Research Interests**:  
   - Economic History 
   - Development Economics
-  - Political Philosophy and Chinese Politics 
+  - Political Philosophy and Chinese Political Economy
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![Stata](https://img.shields.io/badge/stata-%231572B6.svg?style=flat&logo=stata&logoColor=white)  ![MATLAB](https://img.shields.io/badge/MATLAB-%230db7ed.svg?style=flat&logo=mathworks&logoColor=white)  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)  
 
@@ -26,24 +26,22 @@
   - Feb. 2025 We are trying to check our data and refine our baseline regression.
   - Mar. 2025 A face-to-face chat with my supervisor, digging the underlying mechanisms.
   - Apr. 2025 Conference at National School of Development, Peking University.
+  - Jul. 2025 Conference at the 11th Symposium on Quantitative History.
 
-
-## 📝 Selected Works    
-- **[Undergraduate Economic Review](https://github.com/Shijia-Lyu/Immigration-Effect-Paper/tree/main)**: *“Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta”* (Under review)
+## 🤡 Selected Works    
+- **[Undergraduate Economic Review](https://github.com/Shijia-Lyu/Immigration-Effect-Paper/tree/main)**: *“Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta”* , forthcoming, *Undergraduate Economic Review*.
   
   - with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo
 
-## 📫 Let's Connect!  
+## 🌝 Resources
+- [Online Resources with a Focus on the Qing and Republican Era, UC SANTA CRUZ](https://guides.library.ucsc.edu/c.php?g=119725&p=780650)
+- [The First Historical Archives of China](https://fhac.com.cn/index.html)
+## 🫠 Let's Connect!  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvie-lyu-ab322a326/)
 - ✉️ Email: SylvieLyu2004@gmail.com  
 
-## 📸 Sylvie's [Gallery](https://shijia-lyu.github.io/image-gallery/)
+## 😶‍🌫️ Sylvie's [Gallery](https://shijia-lyu.github.io/image-gallery/)
 - 🏞 A glimpse into my academic journey and everyday reflections
 - 🎤 Conferences, life moments, and spontaneous thoughts captured
 - 🌿 Continuously updating with new experiences and inspirations
 
-## ⚡ Fun Fact
-- 🎵 Cantonese pop enthusiast
-- 📺 An independent official account operator on WeChat Platform
-- 📚 Annual reading list：updating
-- 😏 Against the current...
