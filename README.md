@@ -46,7 +46,7 @@
 - 🎤 Conferences, life moments, and spontaneous thoughts captured
 - 🌿 Continuously updating with new experiences and inspirations
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5f5a3c65-0d9c-4f03-ae44-524466ebc532" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/87393297-247d-4be3-94e0-d8d7af93f087" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/f1931211-1be4-416d-9f09-563afd82f603" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/5f5a3c65-0d9c-4f03-ae44-524466ebc532" /><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/87393297-247d-4be3-94e0-d8d7af93f087" /><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/ce8f25f7-07df-44bc-a4c9-25b513cee54c" />
 
 
 
