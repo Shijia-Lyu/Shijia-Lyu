@@ -37,7 +37,7 @@
 ## 🌝 Resources
 - [Online Resources with a Focus on the Qing and Republican Era, UC SANTA CRUZ](https://guides.library.ucsc.edu/c.php?g=119725&p=780650)
 - [The First Historical Archives of China](https://fhac.com.cn/index.html)
-- Ancient Chinese *Jieba*: [甲言](https://github.com/jiaeyan/Jiayan?tab=readme-ov-file) [pkuseg](https://github.com/lancopku/pkuseg-python?tab=readme-ov-file)
+- Ancient Chinese *Jieba*: [HanLP](https://hanlp.hankcs.com/) [甲言](https://github.com/jiaeyan/Jiayan?tab=readme-ov-file) [pkuseg](https://github.com/lancopku/pkuseg-python?tab=readme-ov-file)
 ## 🫠 Let's Connect!  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvie-lyu-ab322a326/)
 - ✉️ Email: SylvieLyu2004@gmail.com  
