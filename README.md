@@ -18,8 +18,6 @@
 ### [Fuel on the Telegraph: Elite Networks in Late Qing China](https://github.com/Shijia-Lyu/Telegraph-Network-Research)  
 📝 **Elite Networks in Late Qing China （1881-1911）**  
   
-🔧 **Methods**: Python (Web Scraping, Data Processing), Panel Data Models
-  
 📊 **News**: 
   - Sept. 2024 Research Project launched with [Dr. Hongjie Yuan](https://ems.whu.edu.cn/info/2354/266811.htm).
   - Dec. 2024 Much more data of revolution groups were collected.
@@ -38,7 +36,7 @@
 - [Online Resources with a Focus on the Qing and Republican Era, UC SANTA CRUZ](https://guides.library.ucsc.edu/c.php?g=119725&p=780650)
 - Qing Archives: [The First Historical Archives of China](https://fhac.com.cn/index.html) [National Palace Museum Digital Library of Qing Archives](https://qingarchives.npm.edu.tw/index.php)
 - Ancient Chinese *Jieba*: [HanLP](https://hanlp.hankcs.com/) [甲言](https://github.com/jiaeyan/Jiayan?tab=readme-ov-file) [pkuseg](https://github.com/lancopku/pkuseg-python?tab=readme-ov-file)
-- Personal/Official Profile in Imperial China: [CBDB](https://inindex.com/biog) [CGED](https://searchjsl.leecampbellgroup.blog/) [人名權威資料庫](https://newarchive.ihp.sinica.edu.tw/sncaccgi/sncacFtp?ID=1390&SECU=686887469&PAGE=search_simple@@480722542)
+- Personal/Official Profile in Imperial China: [CBDB](https://inindex.com/biog) [CGED](https://searchjsl.leecampbellgroup.blog/) [人名權威資料庫](https://newarchive.ihp.sinica.edu.tw/sncaccgi/sncacFtp?ID=1390&SECU=686887469&PAGE=search_simple@@480722542) [清代职官资料库](https://newarchive.ihp.sinica.edu.tw/officerc/officertp?ID=500&SECU=87680305&PAGE=officerdb/search@@707859452)
 - *Qingshilu*, or *Veritable Records of the Qing*: [TW Version *Qingshilu*](https://hanchi.ihp.sinica.edu.tw/mqlc/hanjishilu?2:95915984:10:/raid/ihp_ebook2/hanji/ttsweb.ini:::@SPAWN#top)
 ## 🫠 Let's Connect!  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvie-lyu-ab322a326/)
