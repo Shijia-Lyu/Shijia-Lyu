@@ -1,35 +1,25 @@
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/613e67e1-50a3-4f0b-865c-1191f9657320" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2d1008ba-14d0-4bc1-81a2-2ff26997e8de" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2d1008ba-14d0-4bc1-81a2-2ff26997e8de" />
 # About Me
-**PPE Student**  
 
 ## 🎓 [Academic Background](https://drive.google.com/file/d/1aP-PqGhkdyG3UMPNdbsAKqYlxlA7xOZA/view?usp=drive_link)
-- **Undergraduate**: PPE (Philosophy, Politics, and Economics) at Wuhan University   
+- **Undergrad**: PPE (Philosophy, Politics, and Economics) at Wuhan University
+- **PhD**: Economics, Faculty of Business and Economics, the University of Hong Kong
+   
 - **Research Interests**:  
   - Economic History 
   - Development Economics
   - Political Philosophy and Chinese Political Economy
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![Stata](https://img.shields.io/badge/stata-%231572B6.svg?style=flat&logo=stata&logoColor=white)  ![MATLAB](https://img.shields.io/badge/MATLAB-%230db7ed.svg?style=flat&logo=mathworks&logoColor=white)  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)  
-
 
 ## 🚀 Research Projects  
 
 ### [Fuel on the Telegraph: Elite Networks in Late Qing China](https://github.com/Shijia-Lyu/Telegraph-Network-Research)  
-📝 **Elite Networks in Late Qing China （1881-1911）**  
   
-📊 **News**: 
-  - Sept. 2024 Research Project launched with [Dr. Hongjie Yuan](https://ems.whu.edu.cn/info/2354/266811.htm).
-  - Dec. 2024 Much more data of revolution groups were collected.
-  - Jan. 2025 We have find high correlation between telegraph interaction and the form of revolution groups.
-  - Feb. 2025 We are trying to check our data and refine our baseline regression.
-  - Mar. 2025 A face-to-face chat with my supervisor, digging the underlying mechanisms.
-  - Apr. 2025 Conference at National School of Development, Peking University.
-  - Jul. 2025 Conference at the 11th Symposium on Quantitative History.
+### [Crisis and Elite Communication Networks: Evidence from Telegraphs in Late Qing China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7280978)
 
 ## 🤡 Selected Works    
-- **[Undergraduate Economic Review](https://github.com/Shijia-Lyu/Immigration-Effect-Paper/tree/main)**: *“Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta”* , forthcoming, *Undergraduate Economic Review*.
+- **[Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta](https://github.com/Shijia-Lyu/Immigration-Effect-Paper/tree/main)**: with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo, forthcoming, *Undergraduate Economic Review*.
   
-  - with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo
 
 ## 🌝 Resources
 - [Online Resources with a Focus on the Qing and Republican Era, UC SANTA CRUZ](https://guides.library.ucsc.edu/c.php?g=119725&p=780650)
