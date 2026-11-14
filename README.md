@@ -14,9 +14,14 @@
 ## 🚀 Research Projects  
 
 ### [Fuel on the Telegraph: Elite Networks in Late Qing China](https://github.com/Shijia-Lyu/Telegraph-Network-Research)  
+  Whoever has no house now, will never build one.
+  Whoever is alone now, will long remain so...
   
 ### [Crisis and Elite Communication Networks: Evidence from Telegraphs in Late Qing China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7280978)
-
+  Grave men, near death, who see with blinding sight
+  Blind eyes could blaze like meteors and be gay,
+  Rage, rage against the dying of the light.
+  
 ## 🤡 Selected Works    
 - **[Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta](https://github.com/Shijia-Lyu/Immigration-Effect-Paper/tree/main)**: with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo, forthcoming, *Undergraduate Economic Review*.
   
@@ -32,8 +37,8 @@
 - ✉️ Email: SylvieLyu2004@gmail.com  
 
 ## 😶‍🌫️ Sylvie's [Gallery](https://shijia-lyu.github.io/image-gallery/)
-- 🏞 A glimpse into my academic journey and everyday reflections
-- 🎤 Conferences, life moments, and spontaneous thoughts captured
+- 🏞 A glimpse into my everyday reflections
+- 🎤 Life moments, fantasies, and spontaneous thoughts captured
 - 🌿 Continuously updating with new experiences and inspirations
 
 <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/5f5a3c65-0d9c-4f03-ae44-524466ebc532" /><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/87393297-247d-4be3-94e0-d8d7af93f087" /><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/ce8f25f7-07df-44bc-a4c9-25b513cee54c" /><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/37c4f2dc-7818-4e31-94b3-819b97b7e347" />
