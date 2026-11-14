@@ -14,13 +14,16 @@
 ## 🚀 Research Projects  
 
 ### [Fuel on the Telegraph: Elite Networks in Late Qing China](https://github.com/Shijia-Lyu/Telegraph-Network-Research)  
-  - Whoever has no house now, will never build one.
-  - Whoever is alone now, will long remain so...
+   Whoever has no house now, will never build one.
+   
+   Whoever is alone now, will long remain so...
   
 ### [Crisis and Elite Communication Networks: Evidence from Telegraphs in Late Qing China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7280978)
-  - Grave men, near death, who see with blinding sight
-  - Blind eyes could blaze like meteors and be gay,
-  - Rage, rage against the dying of the light.
+   Grave men, near death, who see with blinding sight
+   
+   Blind eyes could blaze like meteors and be gay,
+   
+   Rage, rage against the dying of the light.
   
 ## 🤡 Selected Works    
 - **[Bridging Modernization and Economies: The Transformative Role of Foreign Immigration in Late Qing China’s Yangtze River Delta](https://github.com/Shijia-Lyu/Immigration-Effect-Paper/tree/main)**: with Mengkun Qi, Jiahe Yue, Chen Ji, and Zhuohan Zuo, forthcoming, *Undergraduate Economic Review*.
